@@ -1,0 +1,41 @@
+table, td{
+    /*fekete összefüggő vonalú keret*/
+    border: 1px solid black;
+    /**/
+    border-collapse: collapse;
+}
+
+/*szöveg elemek középre rendezése
+td{
+    text-align: center;
+}
+*/
+
+main{
+    /*háttérszín beállítása*/
+    background-color: lightgray;
+}
+
+#zold{
+    background-color: green;
+}
+
+#kek{
+    background-color: blue;
+}
+
+#sarga{
+    background-color: yellow;
+}
+
+#piros{
+    background-color: red;
+}
+
+.kek{
+    background-color: blue;
+}
+
+.zold{
+    background-color: green;
+}
